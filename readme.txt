@@ -4,7 +4,7 @@ To run project
 
 Backend:
 
-1. TimeCatch
+1. Navigate to \TimeCatch
 2. dotnet ef database update
 3. start project
 
