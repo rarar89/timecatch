@@ -4,8 +4,9 @@ To run project
 
 Backend:
 
-1. dotnet ef database update
-2. start project
+1. TimeCatch
+2. dotnet ef database update
+3. start project
 
 Frontend:
 
