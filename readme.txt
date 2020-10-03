@@ -16,8 +16,5 @@ Frontend:
 
 Open browser with following url http://localhost:3000
 
-Time from, time to and client can be added and saved
-CLIENTS button leads to Clients page, where new client can be added and total time checked by clicking on "details" on client.
-
-
-
+"Time from", "time to" can be added and client selected and then saved (client should be added first).
+"CLIENTS" button leads to Clients page, where new client can be added and total time can be checked by clicking on "details" on client.
