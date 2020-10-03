@@ -1,0 +1,4 @@
+export const SUBMIT_SUCCESS = 'SUBMIT_SUCCESS';
+export const SUBMIT_FAIL = 'SUBMIT_FAIL';
+export const NO_SUBMIT = 'NO_SUBMIT';
+export const SUBMIT_IN_PROGRESS = 'SUBMIT_IN_PROGRESS';
